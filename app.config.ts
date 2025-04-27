@@ -54,8 +54,7 @@ export default defineAppConfig({
 
     // Header configuration
     header: {
-      logo: true, // Use Logo.vue component
-      title: "sietch", // Custom title in header
+      title: "Sietch Vault", // Custom title in header
       showLinkIcon: true, // Show icons next to links
       exclude: ["/404", "/private"], // Pages to exclude from header nav
       fluid: true, // Full width header
